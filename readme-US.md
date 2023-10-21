@@ -65,5 +65,3 @@ sudo vim /etc/wsl.conf
 `[boot]`
 
 `systemd = true`
-
-**English translation from Youdao**
